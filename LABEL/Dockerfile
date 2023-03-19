@@ -1,0 +1,4 @@
+FROM almalinux
+LABEL AUTHOR="KIRANB" \
+      COURSE="DOCKER" \
+      DURATION="30 HRS"
