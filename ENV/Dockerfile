@@ -1,0 +1,4 @@
+FROM almalinux
+ENV AUTHOR="KIRANB" \
+       DURATION="30HR" \
+       COURSE="DOCKER"
