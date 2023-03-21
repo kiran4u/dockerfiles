@@ -1,2 +1,1 @@
-FROM almalinux
-
+FROM almalinux:latest
